@@ -1,6 +1,7 @@
 # Ecom
 This is a basic website familiar to ecommerce website were you can add, update, andd delete products.
 - Product parameters used are name,date of released, price, image,brand,description,category,availablity of product.
+
 **Backend-java**
 - Open the "ecom-backend-java" folder using IDE like VScode or Intellj Idea.
 - The backend code is in java programming language.
@@ -16,6 +17,7 @@ This is a basic website familiar to ecommerce website were you can add, update, 
   - The server will be running in your local machine on port 8080.
  
 **note:**Be ensure to run backend server before running frontend application because the data is to be communicated from server to client so that entire application will run smoothly.
+
 **FrontEnd- React**
 - Frontend work is built with the react-js.
 - CSS styling is minimal.
